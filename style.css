@@ -207,4 +207,8 @@
     .header-bottom-btn{
 
     }
+    .header-bottom-discription{
+        diplay:none;
+    }
+
 }
